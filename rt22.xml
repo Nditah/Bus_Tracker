@@ -432,15 +432,15 @@
 			<d>South Bound</d>
 			<dd>Southbound</dd> 
 			<dn>S</dn> 
-			<lat>41.89151659011841</lat>
-			<lon>-87.63117980957031</lon>
+			<lat>41.8919440868289</lat>
+			<lon>-87.63119329408158</lon>
 			<pid>3936</pid>
 			<pd>Southbound</pd> 
 			<pdRtpiFeedName></pdRtpiFeedName>
 			<run>P207</run>
 			<fs>Harrison</fs>
 			<op>54256</op>
-			<dip>50231</dip>
+			<dip>50078</dip>
 			<bid>249</bid>				
 			<wid1>0P</wid1>
 			<wid2>207</wid2>            	
@@ -478,3 +478,4 @@
 
 
 	</buses>
+
